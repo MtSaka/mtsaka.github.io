@@ -8,7 +8,6 @@ header {
   background-color: #3849E7;
   color: #fff;
   height: 95px;
-  padding: 10px;
 }
 .header-logo {
   float: left;
@@ -17,21 +16,18 @@ header {
 }
 .header-list li {
   float: left;
-  padding: 23px 20px;
+  padding: 33px 20px;
 }
 .button_css {
   background-color: #3849E7;
   text-decoration: none;
   color:#fff
 }
-.mi-na{
-  font-size: 20px;
-}
 main {
   padding: 50px;
 }
-h1 {
-  color: rgb(216, 16, 16);
+.shumi{
+  font-size:30px;
 }
 footer {
   background-color: #2f776b;
