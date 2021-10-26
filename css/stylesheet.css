@@ -26,6 +26,9 @@ header {
 .mi-na{
   font-size: 20px;
 }
+main {
+  padding: 50px;
+}
 h3 {
   color: rgb(216, 16, 16);
 }
