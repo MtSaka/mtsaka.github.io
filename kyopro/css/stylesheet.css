@@ -8,6 +8,7 @@ header {
   background-color: #3849E7;
   color: #fff;
   height: 95px;
+  padding: 10px;
 }
 .header-logo {
   float: left;
@@ -16,7 +17,7 @@ header {
 }
 .header-list li {
   float: left;
-  padding: 33px 20px;
+  padding: 23px 20px;
 }
 .button_css {
   background-color: #3849E7;
