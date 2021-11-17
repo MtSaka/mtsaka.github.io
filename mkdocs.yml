@@ -41,7 +41,6 @@ markdown_extensions:
   - pymdownx.smartsymbols
   - pymdownx.keys
   - pymdownx.highlight
-  - fontawesome_markdown
   - pymdownx.emoji:
       emoji_index: !!python/name:materialx.emoji.twemoji
       emoji_generator: !!python/name:materialx.emoji.to_svg
