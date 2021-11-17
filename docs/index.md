@@ -1,16 +1,19 @@
 # MtSaka's Homepage
 
 ## 自己紹介
-競プロ、数学、CTFなどをしております中学二年生のMtSakaです。<br>
+競プロ、数学、CTFなどをしています、中学二年生のMtSakaです。<br>
 開成にいっていましたが、現在はイギリスに留学中です。<br>
 ### 競プロ
 2020年11月22日から始めて、約一年となります。<br>
 主にC++を使っています。<br>
-ライブラリは[こちら](https://mtsaka.github.io/library/)<br>
+AtCoder: [MtSaka](https://atcoder.jp/users/MtSaka)(Highest Rating:1730)<br>
+Codeforces: [MtSaka](https://codeforces.com/profile/MtSaka)(Highest Rating:1744)<br>
+ライブラリは[ここ](https://mtsaka.github.io/library/)<br>
 
 ### 数学
 中学受験が終ってから数学というものを勉強し始めました。高校数学は大体わかります。<br>
 競技数学をしていましたが、最近はお休み中です。<br>
+OMC: [sakachin_mt](https://onlinemathcontest.com/users/sakachin_mt)(Highest Rating:1330)<br>
 数学の分野では整数論が好きで、現在雪江整数論1を読み進めています。<br>
 
 ### CTF
@@ -20,5 +23,5 @@
 
 ### 実績
 
-2021年picoCTF: 日本学生3位 ([こちら](https://cognitivehack-jp.cognitivectf.com)にて表彰されてます)<br>
-2021年ジュニア広中杯: 決勝進出<br>
+2021年 picoCTF 日本学生3位 ([Cognitive Hack Japan](https://cognitivehack-jp.cognitivectf.com)にて表彰されてます)<br>
+2021年 ジュニア広中杯 決勝進出<br>
