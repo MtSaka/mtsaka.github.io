@@ -1,0 +1,51 @@
+site_name: MtSaka's Homepage
+site_url: https://mtsaka.github.io
+repo_url: https://github.com/MtSaka/mtsaka.github.io
+repo_name: MtSaka/mtsaka.github.io
+site_author: "MtSaka"
+theme:
+  name: 'material'
+  feature: 
+    tabs: true
+  font:
+    text: "Noto Sans JP"
+    code: "Consolas"
+  palette:
+    primary: "blue"
+    accent: "red"
+  logo: "img/mi-na.jpg"
+  favicon: "img/favicon.ico"
+extra:
+  search:
+    language: 'ja'
+  social:
+    - icon: fontawesome/brands/github
+      link: https://github.com/MtSaka/
+    - icon: fontawesome/brands/twitter
+      link: https://twitter.com/mt_saka
+extra_javascript: 
+  - "http://cdn.mathjax.org/mathjax/latest/MathJax.js?config=TeX-AMS-MML_HTMLorMML"
+  - "js/extra.js"
+extra_css:
+    - "//fonts.googleapis.com/earlyaccess/notosansjp.css"
+    - "//fonts.googleapis.com/css?family=Open+Sans:600,800"
+    - "https://maxcdn.bootstrapcdn.com/font-awesome/4.6.1/css/font-awesome.min.css"
+markdown_extensions:
+  - toc:
+      permalink: True
+  - admonition
+  - codehilite
+  - pymdownx.superfences
+  - footnotes
+  - def_list
+  - pymdownx.smartsymbols
+  - pymdownx.keys
+  - pymdownx.highlight
+  - fontawesome_markdown
+  - pymdownx.emoji:
+      emoji_index: !!python/name:materialx.emoji.twemoji
+      emoji_generator: !!python/name:materialx.emoji.to_svg
+nav:
+  - Home: index.md
+plugins:
+  - search
