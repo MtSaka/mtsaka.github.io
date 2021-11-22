@@ -6,8 +6,8 @@
 ### 競プロ
 2020年11月22日から始めて、約一年となります。<br>
 主にC++を使っています。<br>
-AtCoder: [MtSaka](https://atcoder.jp/users/MtSaka)(Highest Rating:1730)<br>
-Codeforces: [MtSaka](https://codeforces.com/profile/MtSaka)(Highest Rating:1744)<br>
+AtCoder: [MtSaka](https://atcoder.jp/users/MtSaka) [![MtSaka](https://img.shields.io/endpoint?url=https%3A%2F%2Fatcoder-badges.now.sh%2Fapi%2Fatcoder%2Fjson%2FMtSaka)](https://atcoder.jp/users/MtSaka)<br>
+Codeforces: [MtSaka](https://codeforces.com/profile/MtSaka) [![MtSaka](https://img.shields.io/endpoint?url=https%3A%2F%2Fatcoder-badges.now.sh%2Fapi%2Fcodeforces%2Fjson%2FMtSaka)](https://codeforces.com/profile/MtSaka)<br>
 ライブラリは[ここ](https://mtsaka.github.io/library/)<br>
 
 ### 数学
