@@ -16,7 +16,7 @@ theme:
   palette:
     primary: "blue"
     accent: "red"
-  logo: "img/mi-na.jpg"
+  logo: "img/icon.jpg"
   favicon: "img/favicon.ico"
 extra:
   social:
@@ -77,4 +77,3 @@ plugins:
 edit_uri: edit/main/docs/
 nav:
   - Home: index.md
-  
