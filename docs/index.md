@@ -44,5 +44,5 @@ Yukicoder: [MtSaka](https://yukicoder.me/users/17490) 問題をいくつか作�
 OMC: [sakachin_mt](https://onlinemathcontest.com/users/sakachin_mt) ほぼ出ていません<br>
 はてなブログ: [MtSakaのブログ](https://mt-saka.hatenablog.com/) 最近何も書いてないですが何かに使います<br>
 Scrapbox: [mtsaka-memo](https://scrapbox.io/mtsaka-memo/) メモ帳です<br>
-YouTube: [MtSaka](https://www.youtube.com/channel/UCZj7qsnBGNsy4VMTcmBgb9Q) 気が向いたらコンテストに参加したときのスクリーンキャプチャを撮って投稿します。<br>
+YouTube: [MtSaka](https://www.youtube.com/@mt_saka) 気が向いたらコンテストに参加したときのスクリーンキャプチャを撮って投稿します。<br>
 niconico: [MtSaka](https://www.nicovideo.jp/user/122111923) ボカロを聴いています<br>
