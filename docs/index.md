@@ -2,7 +2,7 @@
 MtSaka(松阪)のホームページです。用途は現在未定です。
 ## 自己紹介
 
-競技プログラミング,数学,CTFなどを主に嗜んでいます、中3のMtSakaです。<br>
+競技プログラミング,数学,CTFなどをしています、中3のMtSakaです。<br>
 2021年夏~2022年夏までイギリスに留学していましたが現在は開成中学校に在学しています。<br>
 他にも趣味はアニメやボカロなどあります。<br>
 ### 競プロ
@@ -31,8 +31,11 @@ OMC: [sakachin_mt](https://onlinemathcontest.com/users/sakachin_mt)(Highest Rati
 2021年 picoCTF 日本学生3位<br>
 2021年 ジュニア広中杯 決勝進出<br>
 2021年 HTTF2022本選進出(Youth枠)<br>
+2022年 応用情報技術者試験合格<br>
 2022年 PG BATTLE2022 高校、中学、小学校、その他スクールの部 チーム「まつたけ8.19ch」6位<br>
 2022年 PG BATTLE2022 高校、中学、小学校、その他スクールの部 かつおぶし 2位<br>
+2022年 第22回日本情報オリンピック(JOI)予選Aランク<br>
+2023年 第33回日本数学オリンピック(JMO)予選Aランク<br>
 
 ### 各種リンク
 
@@ -46,3 +49,4 @@ OMC: [sakachin_mt](https://onlinemathcontest.com/users/sakachin_mt) ほぼ出て
 Scrapbox: [mtsaka-memo](https://scrapbox.io/mtsaka-memo/) メモ帳です<br>
 YouTube: [MtSaka](https://www.youtube.com/@mt_saka) 気が向いたらコンテストに参加したときのスクリーンキャプチャを撮って投稿します。<br>
 niconico: [MtSaka](https://www.nicovideo.jp/user/122111923) ボカロを聴いています<br>
+mstdn: [@mt_saka@mstdn.jp](https://mstdn.jp/web/@mt_saka) ツイッターが死んだ時用です<br>
