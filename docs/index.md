@@ -42,6 +42,13 @@ OMC: [sakachin_mt](https://onlinemathcontest.com/users/sakachin_mt)(Highest Rati
 英検1級(2022年取得)<br>
 応用情報技術者(2022年取得)<br>
 
+### 所属等
+コンピューター部副部長<br>
+数学研究部会計<br>
+文化祭準備委員会広報係<br>
+運動会準備委員会報道係<br>
+情報科学の達人4期<br>
+
 ### 各種リンク
 
 Twitter: [@mt_saka](https://twitter.com/mt_saka) 生息地です<br>
@@ -55,4 +62,5 @@ OMC: [sakachin_mt](https://onlinemathcontest.com/users/sakachin_mt) ほぼ出て
 Scrapbox: [mtsaka-memo](https://scrapbox.io/mtsaka-memo/) メモ帳です<br>
 YouTube: [MtSaka](https://www.youtube.com/@mt_saka) 気が向いたらコンテストに参加したときのスクリーンキャプチャを撮って投稿します。<br>
 niconico: [MtSaka](https://www.nicovideo.jp/user/122111923) ボカロを聴いています<br>
-mstdn: [@mt_saka@mstdn.jp](https://mstdn.jp/web/@mt_saka) ツイッターが死んだ時用です<br>
+misskey: [@mt_saka@misskey.io](https://misskey.io/@mt_saka) ツイッターが死んだとき用<br>
+mstdn: [@mt_saka@mstdn.jp](https://mstdn.jp/web/@mt_saka) ツイッターが死んだ時用2<br>
