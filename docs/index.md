@@ -3,9 +3,10 @@ MtSaka(松阪)のホームページです。用途は現在未定です。
 ## 自己紹介
 
 競技プログラミング,数学,CTFなどをしています、MtSakaです。<br>
-2021年夏~2022年夏までイギリスに留学していましたが現在は開成中学校に在学しています。<br>
+2021年夏~2022年夏までイギリスに留学していましたが現在は開成高等学校に在学しています。<br>
 他にも趣味はアニメやボカロなどあります。<br>
-### 競プロ
+
+### 競技プログラミング
 
 2020年11月22日に始めました。<br>
 主にC++を使っています。<br>
@@ -13,12 +14,6 @@ AtCoder: [MtSaka](https://atcoder.jp/users/MtSaka) [![MtSaka](https://img.shield
 Codeforces: [MtSaka](https://codeforces.com/profile/MtSaka) [![MtSaka](https://img.shields.io/endpoint?url=https%3A%2F%2Fatcoder-badges.now.sh%2Fapi%2Fcodeforces%2Fjson%2FMtSaka)](https://codeforces.com/profile/MtSaka)<br>
 自分が使用しているC++ライブラリは[こちら](https://mtsaka.github.io/library/)です<br>
 
-### 数学
-
-中学受験が終ってから数学の勉強をし始めました。高校数学はわかります。<br>
-競技数学をしていましたが、最近はお休み中です。<br>
-OMC: [sakachin_mt](https://onlinemathcontest.com/users/sakachin_mt)(Highest Rating:1330)<br>
-数学の分野では整数論が好きで、現在雪江整数論1を読み進めていると同時に代数学の勉強を少ししています。<br>
 
 ### CTF
 
@@ -32,11 +27,12 @@ OMC: [sakachin_mt](https://onlinemathcontest.com/users/sakachin_mt)(Highest Rati
 2021年 ジュニア広中杯 決勝進出<br>
 2021年 HTTF2022本選進出(Youth枠)<br>
 2022年 応用情報技術者試験合格<br>
-2022年 PG BATTLE2022 高校、中学、小学校、その他スクールの部 チーム「まつたけ8.19ch」6位<br>
-2022年 PG BATTLE2022 高校、中学、小学校、その他スクールの部 かつおぶし 2位<br>
+2022年 PG BATTLE2022 高校、中学、小学校、その他スクールの部 チーム6位<br>
+2022年 PG BATTLE2022 高校、中学、小学校、その他スクールの部 かつおぶし2位<br>
 2022年 第22回日本情報オリンピック(JOI)予選Aランク<br>
 2023年 第33回日本数学オリンピック(JMO)予選Aランク<br>
 2023年 第22回日本情報オリンピック(JOI)優秀賞<br>
+2023年 パソコン甲子園プログラミング部門本選<br>
 
 ### 資格等
 英検1級(2022年取得)<br>
@@ -45,9 +41,16 @@ OMC: [sakachin_mt](https://onlinemathcontest.com/users/sakachin_mt)(Highest Rati
 ### 所属等
 コンピューター部副部長<br>
 数学研究部会計<br>
-文化祭準備委員会広報係<br>
-運動会準備委員会報道係<br>
+文化祭準備委員会専務<br>
+運動会準備委員会報道係C<br>
 情報科学の達人4期<br>
+
+### 経歴
+2020年 開成中学入学
+2021年 開成中学退学
+2022年 開成中学再入学
+2023年 開成中学卒業
+2023年 開成高校入学
 
 ### 各種リンク
 
