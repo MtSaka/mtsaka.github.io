@@ -41,8 +41,8 @@ Codeforces: [MtSaka](https://codeforces.com/profile/MtSaka) [![MtSaka](https://i
 ### 所属等
 コンピューター部副部長<br>
 数学研究部会計<br>
-文化祭準備委員会専務<br>
-運動会準備委員会報道係C<br>
+文化祭準備委員会広報係<br>
+運動会準備委員会報道係<br>
 情報科学の達人4期<br>
 
 ### 経歴
