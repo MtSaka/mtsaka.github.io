@@ -27,8 +27,9 @@ Codeforces: [MtSaka](https://codeforces.com/profile/MtSaka) [![MtSaka](https://i
 ## 実績
 
 #### 2021
-picoCTF 日本学生3位<br>
-ジュニア広中杯 決勝進出<br>
+- picoCTF 日本学生3位<br>
+- ジュニア広中杯 決勝進出<br>
+  
 #### 2022
 - HTTF2022本選進出(Youth枠)<br>
 - PG BATTLE2022 高校、中学、小学校、その他スクールの部 チーム6位<br>
