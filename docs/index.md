@@ -12,6 +12,7 @@ MtSaka(松阪)のホームページです。用途は現在未定です。
 
 2020年11月22日に始めました。<br>
 主にC++を使っています。<br>
+2024年3月ごろからABC準備陣に加わりました。<br>
 AtCoder: [MtSaka](https://atcoder.jp/users/MtSaka) [![MtSaka](https://img.shields.io/endpoint?url=https%3A%2F%2Fatcoder-badges.now.sh%2Fapi%2Fatcoder%2Fjson%2FMtSaka)](https://atcoder.jp/users/MtSaka)<br>
 Codeforces: [MtSaka](https://codeforces.com/profile/MtSaka) [![MtSaka](https://img.shields.io/endpoint?url=https%3A%2F%2Fatcoder-badges.now.sh%2Fapi%2Fcodeforces%2Fjson%2FMtSaka)](https://codeforces.com/profile/MtSaka)<br>
 自分が使用しているC++ライブラリは[こちら](https://mtsaka.github.io/library/)です<br>
@@ -31,11 +32,12 @@ Codeforces: [MtSaka](https://codeforces.com/profile/MtSaka) [![MtSaka](https://i
 2022年 PG BATTLE2022 高校、中学、小学校、その他スクールの部 チーム6位<br>
 2022年 PG BATTLE2022 高校、中学、小学校、その他スクールの部 かつおぶし2位<br>
 2023年 第33回日本数学オリンピック(JMO)予選Aランク<br>
-2023年 第22回日本情報オリンピック(JOI)優秀賞<br>
+2023年 第22回日本情報オリンピック(JOI)優秀賞 春季トレーニング8位<br>
 2023年 パソコン甲子園プログラミング部門本選5位入賞<br>
-2023年 第23回日本情報オリンピック(JOI)予選Aランク<br>
 2023年 日本言語学オリンピック2024選抜枠銀賞<br>
 2024年 第34回日本数学オリンピック(JMO)予選Aランク<br>
+2024年 情報処理学会 第86回全国大会 情報科学の達人 最優秀ポスター発表賞 発表タイトル: 生成言語ステガノグラフィにおける曖昧さ回避について<br>
+2024年 第23回日本情報オリンピック(JOI)優秀賞 春季トレーニング8位<br>
 
 
 ### 資格等
@@ -60,14 +62,12 @@ Codeforces: [MtSaka](https://codeforces.com/profile/MtSaka) [![MtSaka](https://i
 
 Twitter: [@mt_saka](https://twitter.com/mt_saka) 生息地です<br>
 Discord: [MtSaka#8416](https://discordapp.com/users/785139839551930368)連絡とかこちらにしてもらえると嬉しいです<br>
-Github: [MtSaka](https://github.com/MtSaka) あまり更新してません<br>
-AtCoder: [MtSaka](https://atcoder.jp/users/MtSaka) 毎週出てます<br>
-Codeforces: [MtSaka](https://codeforces.com/profile/MtSaka) 最近少し出れていません<br>
-Yukicoder: [MtSaka](https://yukicoder.me/users/17490) 問題をいくつか作ったり、テスターをしてたりします<br>
-OMC: [sakachin_mt](https://onlinemathcontest.com/users/sakachin_mt) ほぼ出ていません<br>
-はてなブログ: [MtSakaのブログ](https://mt-saka.hatenablog.com/) 最近何も書いてないですが何かに使います<br>
+Github: [MtSaka](https://github.com/MtSaka) あまりやってません<br>
+AtCoder: [MtSaka](https://atcoder.jp/users/MtSaka) 最近はWriterもしてます<br>
+OMC: [MtSaka](https://onlinemathcontest.com/users/MtSaka) ほぼ出ていません<br>
+はてなブログ: [MtSakaのブログ](https://mt-saka.hatenablog.com/) 参加記などを主に書いています<br>
 Scrapbox: [mtsaka-memo](https://scrapbox.io/mtsaka-memo/) メモ帳です<br>
 YouTube: [MtSaka](https://www.youtube.com/@mt_saka) 気が向いたらコンテストに参加したときのスクリーンキャプチャを撮って投稿します。<br>
-niconico: [MtSaka](https://www.nicovideo.jp/user/122111923) Vocaloid楽曲をを聴いています<br>
+niconico: [MtSaka](https://www.nicovideo.jp/user/122111923) vocaloid楽曲をを聴いています<br>
 misskey: [@mt_saka@misskey.io](https://misskey.io/@mt_saka) ツイッターが死んだとき用<br>
 mstdn: [@mt_saka@mstdn.jp](https://mstdn.jp/web/@mt_saka) ツイッターが死んだ時用2<br>
