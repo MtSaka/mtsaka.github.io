@@ -28,12 +28,10 @@ Codeforces: [MtSaka](https://codeforces.com/profile/MtSaka) [![MtSaka](https://i
 
 #### 2021
 - picoCTF 日本学生3位<br>
-- ジュニア広中杯 決勝進出<br>
+- ジュニア広中杯 決勝<br>
   
 #### 2022
-- HTTF2022本選進出(Youth枠)<br>
-- PG BATTLE2022 高校、中学、小学校、その他スクールの部 チーム6位<br>
-- PG BATTLE2022 高校、中学、小学校、その他スクールの部 かつおぶし2位<br>
+- HTTF2022本選(Youth枠)<br>
 
 #### 2023
 - 第33回日本数学オリンピック(JMO)予選Aランク<br>
@@ -60,10 +58,6 @@ Codeforces: [MtSaka](https://codeforces.com/profile/MtSaka) [![MtSaka](https://i
 情報科学の達人4期<br>
 
 ## 経歴
-2020年 開成中学入学<br>
-2021年 開成中学退学<br>
-2022年 開成中学再入学<br>
-2023年 開成中学卒業<br>
 2023年 開成高校入学<br>
 
 ## 各種リンク
