@@ -89,13 +89,11 @@ AtCoder Beginner ContestのWriterを2024年3月~2025年7月まで担当してい
 
 ## 各種リンク
 
-Twitter: [@mt_saka](https://twitter.com/mt_saka) 生息地<br>
-Discord: [mt_saka](https://discordapp.com/users/785139839551930368)連絡とかす<br>
-Github: [MtSaka](https://github.com/MtSaka) <br>
-AtCoder: [MtSaka](https://atcoder.jp/users/MtSaka) <br>
-OMC: [MtSaka](https://onlinemathcontest.com/users/MtSaka) ほぼ出ていません<br>
-はてなブログ: [MtSakaのブログ](https://mt-saka.hatenablog.com/) 参加記とか<br>
-Scrapbox: [mtsaka-memo](https://scrapbox.io/mtsaka-memo/) メモ帳<br>
-YouTube: [MtSaka](https://www.youtube.com/@mt_saka) 気が向いたらコンテストに参加したときのスクリーンキャプチャを撮って投稿します<br>
-misskey: [@mt_saka@misskey.io](https://misskey.io/@mt_saka) Twitterが死んだとき用<br>
-mstdn: [@mt_saka@mstdn.jp](https://mstdn.jp/web/@mt_saka) Twitterが死んだ時用2<br>
+- Twitter: [@mt_saka](https://twitter.com/mt_saka) 生息地
+- Discord: [mt_saka](https://discordapp.com/users/785139839551930368)
+- Github: [MtSaka](https://github.com/MtSaka) 
+- AtCoder: [MtSaka](https://atcoder.jp/users/MtSaka) 
+- はてなブログ: [MtSakaのブログ](https://mt-saka.hatenablog.com/) 参加記など
+- YouTube: [MtSaka](https://www.youtube.com/@mt_saka) 気が向いたらコンテストに参加したときのスクリーンキャプチャを撮って投稿します
+- misskey: [@mt_saka@misskey.io](https://misskey.io/@mt_saka)
+- mstdn: [@mt_saka@mstdn.jp](https://mstdn.jp/web/@mt_saka)
