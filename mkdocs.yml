@@ -16,7 +16,7 @@ theme:
   palette:
     primary: "blue"
     accent: "red"
-  logo: "img/icon.png"
+  logo: "img/icon_cat.jpg"
   favicon: "img/favicon.ico"
 extra:
   social:

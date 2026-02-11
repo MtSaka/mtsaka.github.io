@@ -13,34 +13,25 @@ MtSaka(松阪)のホームページです。用途は現在未定です。
 
 アニメとか合成音声(VOCALOID)、プレミアリーグ(サッカー観戦)が好きです
 
-## 興味・関心
-
-コンピュータ及びそれに関係する数学全般<br>
-
 ### 競技プログラミング
 
-主にC++を使っています。<br>
+主にC++を使っています。
+
 AtCoder: [MtSaka](https://atcoder.jp/users/MtSaka) [![MtSaka](https://img.shields.io/endpoint?url=https%3A%2F%2Fatcoder-badges.now.sh%2Fapi%2Fatcoder%2Fjson%2FMtSaka)](https://atcoder.jp/users/MtSaka)<br>
 Codeforces: [MtSaka](https://codeforces.com/profile/MtSaka) [![MtSaka](https://img.shields.io/endpoint?url=https%3A%2F%2Fatcoder-badges.now.sh%2Fapi%2Fcodeforces%2Fjson%2FMtSaka)](https://codeforces.com/profile/MtSaka)<br>
-自分が使用しているC++ライブラリは[これ](https://mtsaka.github.io/library/)です<br>
+
+自分が使用しているC++ライブラリ: [MtSaka's Library](https://mtsaka.github.io/library/)です
 
 
 
+## 主な実績
 
-## 実績
-
-#### 2021
-- picoCTF 日本学生3位<br>
-- ジュニア広中杯 決勝<br>
-  
-#### 2022
-- HTTF2022本選(Youth枠)<br>
-
-#### 2023
-- 第33回日本数学オリンピック(JMO)予選Aランク<br>
-- 第22回日本情報オリンピック(JOI)優秀賞 春季トレーニング8位<br>
-- パソコン甲子園プログラミング部門5位入賞<br>
-- 日本言語学オリンピック2024選抜枠銀賞<br>
+#### 2025
+- 第35回日本数学オリンピック(JMO)予選Aランク<br>
+- 第24回日本情報オリンピック(JOI)優秀賞 秋季トレーニング3位<br>
+- 第19回アジア太平洋情報オリンピックウズベキスタン大会(APIO2025) 24位 銀メダル<br>
+- 第37回国際情報オリンピックボリビア大会(IOI2025) 33位 銀メダル<br>
+- パソコン甲子園プログラミング部門3位入賞<br>
 
 #### 2024
 - 第34回日本数学オリンピック(JMO)予選Aランク<br>
@@ -51,12 +42,15 @@ Codeforces: [MtSaka](https://codeforces.com/profile/MtSaka) [![MtSaka](https://i
 - パソコン甲子園プログラミング部門3位入賞<br>
 - 日本言語学オリンピック(JOL)2025選抜枠銅賞<br>
 
-#### 2025
-- 第35回日本数学オリンピック(JMO)予選Aランク<br>
-- 第24回日本情報オリンピック(JOI)優秀賞 秋季トレーニング3位<br>
-- 第19回アジア太平洋情報オリンピックウズベキスタン大会(APIO2025) 24位 銀メダル<br>
-- 第37回国際情報オリンピックボリビア大会(IOI2025) 33位 銀メダル<br>
+#### 2023
+- 第33回日本数学オリンピック(JMO)予選Aランク<br>
+- 第22回日本情報オリンピック(JOI)優秀賞 春季トレーニング8位<br>
+- パソコン甲子園プログラミング部門5位入賞<br>
+- 日本言語学オリンピック(JOL)2024選抜枠銀賞<br>
 
+#### 2021
+- picoCTF 日本学生3位<br>
+- ジュニア広中杯 決勝<br>
 
 
 ## 資格等
@@ -68,11 +62,11 @@ Codeforces: [MtSaka](https://codeforces.com/profile/MtSaka) [![MtSaka](https://i
 
 ## 所属等
 
-第45代コンピューター部部長<br>
-第47,48代数学研究部会計<br>
-153rd文化祭準備委員会専務<br>
-153rd運動会準備委員会報道係C<br>
-情報科学の達人4期<br>
+- 第45代開成コンピュータ部(KCLC)部長
+- 第47,48代開成数学研究部会計
+- 153rd開成文化祭準備委員会 専務
+- 153rd開成運動会準備委員会 報道係C
+- 情報科学の達人4期
 
 ## 経歴
 
