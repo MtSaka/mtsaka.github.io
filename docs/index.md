@@ -37,9 +37,9 @@ MtSaka(松阪)のホームページです。用途は現在未定です。
 AtCoder: [MtSaka](https://atcoder.jp/users/MtSaka) [![MtSaka](https://img.shields.io/endpoint?url=https%3A%2F%2Fatcoder-badges.now.sh%2Fapi%2Fatcoder%2Fjson%2FMtSaka)](https://atcoder.jp/users/MtSaka)<br>
 Codeforces: [MtSaka](https://codeforces.com/profile/MtSaka) [![MtSaka](https://img.shields.io/endpoint?url=https%3A%2F%2Fatcoder-badges.now.sh%2Fapi%2Fcodeforces%2Fjson%2FMtSaka)](https://codeforces.com/profile/MtSaka)<br>
 
-自分が使用しているC++ライブラリ: [MtSaka's Library](https://mtsaka.github.io/library/)です
+自分が使用しているC++ライブラリ: [MtSaka's Library](https://mtsaka.github.io/library/)
 
-AtCoder Beginner ContestのWriterを2024年3月~2025年7月まで担当していました(受験のため一時休止)
+AtCoder Beginner ContestのWriterを2024年3月~2025年7月まで担当していました(受験のため休止中)
 
 
 ## 主な実績
