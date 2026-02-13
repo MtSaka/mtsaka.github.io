@@ -1,6 +1,4 @@
-# MtSaka's Homepage
-
-MtSaka(松阪)のホームページです。用途は現在未定です。
+# MtSaka's Page
 
 ## 自己紹介
 
@@ -35,7 +33,7 @@ MtSaka(松阪)のホームページです。用途は現在未定です。
 主にC++を使っています。
 
 AtCoder: [MtSaka](https://atcoder.jp/users/MtSaka) [![MtSaka](https://img.shields.io/endpoint?url=https%3A%2F%2Fatcoder-badges.now.sh%2Fapi%2Fatcoder%2Fjson%2FMtSaka)](https://atcoder.jp/users/MtSaka)<br>
-Codeforces: [MtSaka](https://codeforces.com/profile/MtSaka) [![MtSaka](https://img.shields.io/endpoint?url=https%3A%2F%2Fatcoder-badges.now.sh%2Fapi%2Fcodeforces%2Fjson%2FMtSaka)](https://codeforces.com/profile/MtSaka)<br>
+Codeforces: [MtSaka](https://codeforces.com/profile/MtSaka) [![MtSaka](https://img.shields.io/endpoint?url=https%3A%2F%2Fatcoder-badges.now.sh%2Fapi%2Fcodeforces%2Fjson%2FMtSaka)](https://codeforces.com/profile/MtSaka)
 
 自分が使用しているC++ライブラリ: [MtSaka's Library](https://mtsaka.github.io/library/)
 
